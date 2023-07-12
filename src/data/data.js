@@ -12,14 +12,14 @@ export const people=[{
 },
 {
     id:2,
-    name:"Franco",
-    lastName:"Madou",
-    age:27,
+    name:"Gregorio",
+    lastName:"Vargas",
+    age:24,
 },
 {
     id:3,
-    name:"Gregorio",
-    lastName:"Vargas",
-    age:27,
+    name:"Franco",
+    lastName:"Madou",
+    age:25,
 },
 ]
